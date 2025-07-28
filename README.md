@@ -3,7 +3,7 @@
 **Join** is a web-based task management application inspired by the Kanban method.  
 It helps teams to manage, track, and organize tasks with an intuitive drag-and-drop interface.
 
-![Screenshot](assets/img/join.png)
+![Screenshot](assets/IMG/join.png)
 
 ---
 
